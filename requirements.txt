@@ -1,0 +1,37 @@
+# Core scientific stack
+numpy>=1.24.0
+pandas>=1.3.0
+scikit-learn>=1.3.0
+
+# PyTorch & vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Embeddings & models
+transformers>=4.30.0
+open_clip_torch>=2.20.0
+
+# Explainability libraries
+shap>=0.41.0
+lime>=0.2.0.1
+captum>=0.6.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Dimensionality reduction
+umap-learn>=0.5.0
+
+# Jupyter & interactive tools
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Image processing
+Pillow>=9.0.0
+opencv-python>=4.5.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.2.0
